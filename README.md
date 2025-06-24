@@ -1,14 +1,19 @@
 ## Trabajo Intregador Final
+
 ## Integrantes del equipo
-- Maxi Lanzi
+- Maximiliano Fernando Lanzisera
 - Emiliano Perez
-- Gaston Fernandez
-- Mati F
+- Gaston Nicolas Fernandez
+- Matias Alejo Fronda
+
 ## Carrera
-Tecnicatura Universitaria en Telecomunicaciones 
+Tecnicatura Universitaria en Telecomunicaciones
+
 ## Materia
-Programacion
+TUT - Programación
+
 ## Programa Utilizado
 PseInt
+
 ## Descripción
 Breve descripción del TFI.
